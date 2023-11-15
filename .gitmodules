@@ -1,0 +1,15 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/solmate"]
+	path = lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "lib/permit2"]
+	path = lib/permit2
+	url = git@github.com:Uniswap/permit2.git
+[submodule "solmate"]
+	path = solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "permit2"]
+	path = permit2
+	url = https://github.com/Uniswap/permit2
